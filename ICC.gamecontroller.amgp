@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamecontroller configversion="19" appversion="2.23">
+    <!--The SDL name for a joystick is included for informational purposes only.-->
+    <sdlname>XInput Controller</sdlname>
+    <!--The GUID for a joystick is included for informational purposes only.-->
+    <guid>78696e70757401000000000000000000</guid>
+    <names/>
+    <keyPressTime>1000</keyPressTime>
+    <sets>
+        <set index="1">
+            <stick index="1">
+                <deadZone>8594</deadZone>
+                <mode>four-way</mode>
+                <stickbutton index="1">
+                    <turbointerval>2000</turbointerval>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x39</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+                <stickbutton index="3">
+                    <turbointerval>2000</turbointerval>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x39</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+                <stickbutton index="5">
+                    <turbointerval>2000</turbointerval>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x39</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+                <stickbutton index="7">
+                    <turbointerval>2000</turbointerval>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x39</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+            </stick>
+            <stick index="2">
+                <stickbutton index="1">
+                    <turbointerval>4000</turbointerval>
+                    <turbomode>gradient</turbomode>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x30</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+                <stickbutton index="3">
+                    <turbointerval>4000</turbointerval>
+                    <turbomode>gradient</turbomode>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x30</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+                <stickbutton index="5">
+                    <turbointerval>4000</turbointerval>
+                    <turbomode>gradient</turbomode>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x30</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+                <stickbutton index="7">
+                    <turbointerval>4000</turbointerval>
+                    <turbomode>gradient</turbomode>
+                    <useturbo>true</useturbo>
+                    <slots>
+                        <slot>
+                            <code>0x11000021</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                        <slot>
+                            <code>0x30</code>
+                            <mode>keyboard</mode>
+                        </slot>
+                    </slots>
+                </stickbutton>
+            </stick>
+            <trigger index="1">
+                <throttle>positivehalf</throttle>
+                <triggerbutton index="2">
+                    <slots>
+                        <slot>
+                            <profile>C:/Users/areckx/Documents/mouse.gamecontroller.amgp</profile>
+                            <mode>loadprofile</mode>
+                        </slot>
+                    </slots>
+                </triggerbutton>
+            </trigger>
+            <trigger index="2">
+                <throttle>positivehalf</throttle>
+            </trigger>
+            <button index="1">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x34</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="2">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x34</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="3">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x33</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="4">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x34</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="5">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x35</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="6">
+                <turbointerval>4000</turbointerval>
+            </button>
+            <button index="7">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x36</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="10">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x39</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="11">
+                <slots>
+                    <slot>
+                        <code>0x11000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x30</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+        </set>
+    </sets>
+</gamecontroller>
