@@ -154,8 +154,8 @@
             <button index="5">
                 <slots>
                     <slot>
-                        <code>0x1000003</code>
-                        <mode>keyboard</mode>
+                        <profile>C:/Users/areckx/Documents/mouse.gamecontroller.amgp</profile>
+                        <mode>loadprofile</mode>
                     </slot>
                 </slots>
             </button>
